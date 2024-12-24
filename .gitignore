@@ -1,0 +1,11 @@
+data/*
+gadm36_JPN_1/*
+output/*
+PDFormer/*
+result/*
+my_data/day_data/*
+adj_matrix.ipynb
+opti_pred_metapopulation_kansai3prefecture.ipynb
+opti_pred_metapopulation_kanto4prefecture.ipynb
+opti_pred_metapopulation.py 
+README.md
